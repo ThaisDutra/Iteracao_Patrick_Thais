@@ -1,0 +1,7 @@
+C:\Users\patrick.costa\Desktop\Iteracao_2003_Patrick_Thais\Iteracao_2003_Patrick_Thais\bin\Debug\Iteracao_2003_Patrick_Thais.exe.config
+C:\Users\patrick.costa\Downloads\Iteracao_2003_Patrick_Thais\Iteracao_2003_Patrick_Thais\bin\Debug\Iteracao_2003_Patrick_Thais.exe.config
+C:\Users\patrick.costa\Downloads\Iteracao_2003_Patrick_Thais\Iteracao_2003_Patrick_Thais\bin\Debug\Iteracao_2003_Patrick_Thais.exe
+C:\Users\patrick.costa\Downloads\Iteracao_2003_Patrick_Thais\Iteracao_2003_Patrick_Thais\bin\Debug\Iteracao_2003_Patrick_Thais.pdb
+C:\Users\patrick.costa\Downloads\Iteracao_2003_Patrick_Thais\Iteracao_2003_Patrick_Thais\obj\Debug\Iteracao_2003_Patrick_Thais.csprojResolveAssemblyReference.cache
+C:\Users\patrick.costa\Downloads\Iteracao_2003_Patrick_Thais\Iteracao_2003_Patrick_Thais\obj\Debug\Iteracao_2003_Patrick_Thais.exe
+C:\Users\patrick.costa\Downloads\Iteracao_2003_Patrick_Thais\Iteracao_2003_Patrick_Thais\obj\Debug\Iteracao_2003_Patrick_Thais.pdb
